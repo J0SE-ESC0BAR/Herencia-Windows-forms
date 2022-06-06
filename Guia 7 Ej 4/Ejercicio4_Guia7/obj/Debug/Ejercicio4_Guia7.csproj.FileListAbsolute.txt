@@ -1,0 +1,29 @@
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe.config
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csprojResolveAssemblyReference.cache
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Form1.resources
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Properties.Resources.resources
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.GenerateResource.Cache
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.pdb
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.exe
+C:\Users\Revelo\Documents\Visual Studio 2015\Projects\RR19021\Programacion I\Guia-7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.pdb
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe.config
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.pdb
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.AssemblyReference.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Form1.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Properties.Resources.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.GenerateResource.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.CoreCompileInputs.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Ejercicio4_Guia7\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.pdb
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe.config
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\bin\Debug\Ejercicio4_Guia7.pdb
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.AssemblyReference.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Form1.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.Properties.Resources.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.GenerateResource.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.csproj.CoreCompileInputs.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\7\Guia 7 Ej 4\Ejercicio4_Guia7\obj\Debug\Ejercicio4_Guia7.pdb
